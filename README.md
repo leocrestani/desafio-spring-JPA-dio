@@ -1,1 +1,6 @@
-# desafio-spring-JPA-dio
+# Desafio Conhecendo Spring Data JPA na prática com Java
+
+Este é um desafio de projeto realizado para o bootcamp da [DIO + Banco Pan](https://dio.me/).
+
+### Descrição do Desafio
+Ao final deste projeto, o Dev irá conhecer os principais conceitos de mapeamento objeto relacional (ORM) usando o Spring Data JPA. Para isso, uma API RESTful será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.
